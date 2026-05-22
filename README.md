@@ -11,8 +11,11 @@ Cette application Android démontre l'utilisation de divers capteurs embarqués 
 - **Reconnaissance d'activité** : Algorithme personnalisé pour détecter si l'utilisateur est stable, marche ou saute.
 
 ## Aperçu
-![Aperçu de l'application](screenshot.png)
-*(Note : Ajoutez une capture d'écran nommée `screenshot.png` à la racine pour l'afficher ici)*
+<img width="327" height="672" alt="21" src="https://github.com/user-attachments/assets/0f202351-33fc-4c2b-a3b7-79670f7ab922" />
+<img width="332" height="507" alt="213" src="https://github.com/user-attachments/assets/c99f8184-3433-467f-88e3-ba37071aa80a" />
+<img width="333" height="573" alt="212" src="https://github.com/user-attachments/assets/03e6ca78-1836-4e64-abd5-6a3b4fb0424d" />
+
+
 
 ## Architecture du Projet
 - **Package fragments** : Contient la logique isolée pour chaque type de capteur.
